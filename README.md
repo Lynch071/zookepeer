@@ -1,2 +1,2 @@
 # zookepeer
-Easy Python Project
+Easy Python Project from JetBrains Academy
